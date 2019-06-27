@@ -2,3 +2,6 @@ $ mkdir learngit
 $ cd learngit
 $ pwd
 /Users/michael/learngit
+
+## change
+$ test test 
